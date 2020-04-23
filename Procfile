@@ -1,0 +1,1 @@
+web: gunicorn emojiweather.wsgi --pythonpath emojiweather --log-file -
